@@ -40,9 +40,11 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Oneplus 3/3t sim nfc    "
-  ui_print "*******************************"
+  ui_print "******************************"
+  ui_print "        OnePlus 3 and 3t      "
+  ui_print "        NFC SIM enabler       "
+  ui_print "       in screen off mode     "
+  ui_print "******************************"
 }
 
 ##########################################################################################
